@@ -2,7 +2,7 @@
 
 #### Waste your time like you never did before!
 
-![ungtb10d](https://user-images.githubusercontent.com/114263485/192118628-3ef55833-0dae-4437-8988-ae5749abba0f.png)
+![ungtb10d](https://user-images.githubusercontent.com/114263485/192118686-c0551e01-a5a4-41ad-b801-bc4965b5680c.png)
 
 
 ## What is this?
