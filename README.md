@@ -6,19 +6,15 @@
 
 
 ## What is this?
-
-`gitcanvas` is a service _and_ command-line tool that facilitates "drawing" in your contribution summary on GitHub, by creating commits for you in the right places.
-
-Just [hop onto the site](http://gitcanvas.herokuapp.com), _draw something_, commit with the CLI, and done! :rocket:
-
-![web.png][2]
+Who are you?
 
 # Using the CLI
 
 Install it via `npm`.
 
 ```shell
-npm install -g gitcanvas
+git clone https://github.com/ungtb10d/kunst
+cd kunst && npm install -g 
 ```
 
 Sit in the repository you want to generate the commits on, and then use `gitcanvas` CLI.
@@ -29,25 +25,9 @@ gitcanvas --dry-run some.json
 gitcanvas some.json
 ```
 
-![cli.png][4]
-
-Provided that you give it a JSON file generated on the site, `gitcanvas` will generate a bunch of commits for you _(no pushing around, so you can take it back)_.
-
-![commits.png][3]
-
-This is mostly harmless, as commits will be empty. No changes are part of the commit. You could always use the `--dry-run` flag to see what the commands would look like.
-
-Take into consideration that other people only see your _public contribution activity_, so using `gitcanvas` on a private repo won't always have the desired effect (showing off a cool, pixelated drawing).
-
-# Hosting the web application
-
-No special treatment, just `node app`, done.
+# Drinking and driving?
+Nope.
 
 # Why, God, Why?
+Don't ask me! I'm an atheist!
 
-Boredom, insomnia, and I just had to find a use for [emoji-random](https://github.com/bevacqua/node-emoji-random), which is largely useless too.
-
-  [1]: https://github.com/bevacqua/gitcanvas/blob/master/dat/gitcanvas.png?raw=true
-  [2]: https://github.com/bevacqua/gitcanvas/blob/master/dat/web.png?raw=true
-  [3]: https://github.com/bevacqua/gitcanvas/blob/master/dat/commits.png?raw=true
-  [4]: https://github.com/bevacqua/gitcanvas/blob/master/dat/cli.png?raw=true
