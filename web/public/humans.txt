@@ -1,10 +1,10 @@
 /* TEAM */
-    Chef: Nicolas Bevacqua
-    Contact: hello@bevacqua.io
-    Twitter: @nzgb
-    GitHub: bevacqua
-    From: Buenos Aires, Argentina
+    Thief: Anders Pippi Tednes
+    Contact: goodbye@blckswan.no
+    Twitter: nope
+    GitHub: ungtb10d
+    From: Rogaland, Norway
 
 /* SITE */
-    Ingredients: Sublime Text, iTerm, zsh, git, JavaScript, love
-    Recipe: https://github.com/bevacqua/gitcanvas
+    Ingredients: Ordinary water. (And a tiny drop of LSD)
+    Recipe: https://github.com/ungtb10d/gitcanvas
