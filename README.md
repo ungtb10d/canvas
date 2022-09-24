@@ -13,7 +13,7 @@ Who are you?
 Install it via `npm`.
 
 ```shell
-git clone https://github.com/ungtb10d/kunst
+git clone https://github.com/ungtb10d/canvas
 cd kunst && npm install -g 
 ```
 
