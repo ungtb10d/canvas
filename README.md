@@ -2,7 +2,7 @@
 
 #### ungtb10d
 
-![ungtb10d](https://github.com/ungtb10d/kunst/raw/master/web/public/img/gitcanvas.png)
+![ungtb10d](./web/public/img/gitcanvas.png)
 
 
 ## What is this?
