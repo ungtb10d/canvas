@@ -1,6 +1,6 @@
 # [blckswan](http://gitcanvas.herokuapp.com)
 
-#### Waste your time like you never did before!
+#### ungtb10d
 
 ![ungtb10d](https://github.com/ungtb10d/kunst/raw/master/web/public/img/gitcanvas.png)
 
