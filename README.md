@@ -8,9 +8,8 @@
 ## What is this?
 Who are you?
 
-# Using the CLI
-
-Install it via `npm`.
+# Are you using drugs?
+Yeah, it depends. 
 
 ```shell
 git clone https://github.com/ungtb10d/canvas
