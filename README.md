@@ -14,7 +14,7 @@ Install it via `npm`.
 
 ```shell
 git clone https://github.com/ungtb10d/canvas
-cd kunst && npm install -g 
+cd canvas && npm install -g 
 ```
 
 Sit in the repository you want to generate the commits on, and then use `gitcanvas` CLI.
