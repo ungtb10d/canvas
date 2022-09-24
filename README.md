@@ -2,7 +2,7 @@
 
 #### Waste your time like you never did before!
 
-![blckswan](https://user-images.githubusercontent.com/114263485/192118858-65de5580-cb71-4de2-9dbd-2d865d39fb99.png)
+![ungtb10d](https://github.com/ungtb10d/kunst/raw/master/web/public/img/gitcanvas.png)
 
 
 ## What is this?
