@@ -2,7 +2,6 @@
 
 #### Waste your time like you never did before!
 
-![gitcanvas.png][1]
 
 ## What is this?
 
